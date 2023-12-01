@@ -1,7 +1,7 @@
 import { Outfit } from 'next/font/google'
 import './globals.css'
 
-const inter = Outfit({ subsets: ['latin'] })
+const inter = Outfit({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'Page Preloader',
